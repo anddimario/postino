@@ -1,0 +1,15 @@
+{
+  "name": "fire",
+  "version": "1.0.0",
+  "description": "fire event for batch for postino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.486.0",
+    "uuid": "^3.3.2"
+  }
+}

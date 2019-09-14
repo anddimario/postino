@@ -1,0 +1,13 @@
+info
+aws-keys.json
+node_modules
+item.json
+templates/*
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
