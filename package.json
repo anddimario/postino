@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "aws-sdk": "^2.488.0",
-    "handlebars": "^4.3.0"
+    "handlebars": "^4.7.7"
   }
 }
